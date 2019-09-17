@@ -1,6 +1,5 @@
 = Five years in the carpentries
 :imagesdir: images
-:figure-caption!:
 :icons: font
 :date: September 18, 2019
 :my_name: Peter Steinbach
@@ -156,24 +155,40 @@ image::adult-blur-books-261909_1024x.jpg[width=80%]
 
 == Curriculum & Evaluation
 
-=== SWC Bootcamp
+=== Software Carpentry Bootcamp
 
-* 0.75-1 day of https://swcarpentry.github.io/shell-novice/[shell introduction]
-* 1-1.5 days of http://swcarpentry.github.io/python-novice-inflammation/[python introduction]
-* 0.25-0.5 days of http://swcarpentry.github.io/git-novice/[git introduction]
+[cols=">,^",grid=none, frame=none]
+|===
+| day(s)
+| introduction to
 
-=== DC Bootcamp
+| .75-1
+a| https://swcarpentry.github.io/shell-novice/[shell introduction]
+
+| 1-1.5 
+a| https://swcarpentry.github.io/python-novice-inflammation/[python introduction]
+
+| 0.2-0.5
+a| https://swcarpentry.github.io/git-novice/[git introduction]
+|===
+
+=== Data Carpentry Bootcamp
 
 [cols="^,^",grid=none, frame=none]
 |===
-| 2 hours
-| 2 hours
-| 3 hours
-| 10 hours
+| hours
+| topic
 
+| 2 
 a| https://datacarpentry.org/spreadsheet-ecology-lesson/[_Data Organization in Spreadsheets_]
+
+| 2 
 a| https://datacarpentry.org/OpenRefine-ecology-lesson/[Data Cleaning with OpenRefine]
+
+| 3 
 a| https://datacarpentry.org/sql-ecology-lesson/[Data Management with SQL]
+
+| 10
 a| https://datacarpentry.org/python-ecology-lesson/[Plotting with Python]
 |===
 
@@ -188,11 +203,13 @@ image::2018-longterm-survey-changeinconfidence.png[]
 
 == Summary
 
-=== General
+=== Experiences
 
-* teaching not considered a value worth paying for (hard to attract funding )
-* long-term effects tricky to quantify
+* teaching not considered a value worth paying for + 
+(hard to attract funding )
+* thriving community
 * carpentries target domain scientists (cultural issues on both sides)
+* much needed when talking to PhDs and PostDocs
 
 === MPI CBG
 
