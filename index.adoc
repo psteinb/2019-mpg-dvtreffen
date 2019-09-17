@@ -1,7 +1,7 @@
-= Dresden Deep Learning Hackathon
+= The Carpentries at MPI CBG
 :imagesdir: images
 :icons: font
-:date: September 9, 2019
+:date: September 18, 2019
 :my_name: Peter Steinbach
 :my_email: p.steinbach@hzdr.de
 :my_twitter: psteinb_
@@ -19,248 +19,24 @@
 :stem:
 
 mailto:{my_email}[{my_name}] (https://www.hzdr.de[HZDR]) +
-SLUB Dresden, Germany, {date} +
+DV-Treffen, Göttingen, {date} +
 https://twitter.com/{my_twitter}[icon:twitter[] psteinb_] https://github.com/{my_github}[icon:github[] psteinb] + 
 
-
 [%notitle]
-== Welcome
+== whoami
 
-image::welcome.jpg[background, size=cover]
+=== (Past) My Role
 
-[%stretch]
-=== Hello!
+== The carpentries
 
-[quote#roads, Dr. Florian Jug]
-____
-I’m unfortunately in Begium and cannot be here today.
-On the other hand… who cares! All important people for the success of this Hackathon are around.
+* teach foundational coding and data science skills
+to scientists https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf[worldwide]
 
-You! 
-The tutors who will help you find intelligible solutions to your problems throughout the week. 
-And Peter, who really is the person that made this event happen.
+* coach/certify trainers in evidence-based teaching methods
 
-I welcome you cordially to Dresden and wish you the most productive and inspiring week!
-____
+* https://datacarpentry.org/lessons/#biology-semester-long-course[share and evolve material] as open-source on github
 
+* non-profit international organisation (funding: 59% membership fees, 19% workshop fees, 22% donations)
 
-=== the road to this point
-
-[%step]
-* 2017 https://indico.mpi-cbg.de/event/42/[Deep Learning Bootcamp] (33 Scientists)
-* 2018 https://indico.mpi-cbg.de/event/118/[Deep Learning Bootcamp] (34 scientists)
-* 2019 https://indico.mpi-cbg.de/event/186/[Deep Learning Hackathon] (32 scientists)
-
-
-=== applications for the hackathon
-
-[%step]
-* 30 applications
-* 10 teams selected
-* 16 mentors
-
-=== sponsors
-
-[%step]
-* https://aws.amazon.com/de/?nc2=h_lg[AWS Cloud Services]
-* https://www.hzdr.de/db/Cms?pOid=57317&pNid=0[CASUS] Center for data intensive and interdisciplinary systems research
-* https://www.denbi.de/[de.NBI] German Network for Bioinformatics Infrastructure
-* https://www.fz-juelich.de[FZ Juelich]
-* https://haicu.de/[Helmholtz Artificial Intelligence Cooperation Unit]  (HAICU)
-* https://hzdr.de/[Helmholtz-Zentrum Dresden-Rossendorf]  (HZDR)
-* https://www.helmholtz-muenchen.de/en/index.html[Helmholtz-Zentrum Munich]
-* https://www.htw-dresden.de/startseite.html[HTW Dresden] (University of Applied Sciences)
-* https://mpi-cbg.de/[Max Planck Institute of Molecular Cell Biology and Genetics] (MPI-CBG)
-* https://nvidia.com/[Nvidia Corporation]
-* https://www.scads.de/en/[ScaDS - Dresden/Leipzig - Competence Center for Scalable Data Services]
-* https://tu-dresden.de/zih/[ZiH of TU Dresden] - Centre for Information Services and High Performance Computing
-
-[.notes]
---
-* AWS: cloud credits
-* CASUS: catering
-* de.NBI: womanhours
-* hzdr: (womanhours) + 5 mentors
-* mpi-cbg: (womanhours) + 5 mentors
-* nvidia: prices + 1 mentor
-* scads: travel money
-* zih: HPC infrastructure
-* tu dresden: 1 mentor
-* FZ Juelich: 1 mentor
-* Helmholtz-Zentrum München: 1 mentor
-* HTW Dresden: 1.5 mentor
---
-
-[%notitle]
-=== thank you
-
-image::thankyou.jpg[background, size=cover]
-
-
-[%notitle]
-=== Time to Hack!
-
-image::keyboard-night.jpg[background, size=cover]
-
-[.notes]
---
-Time to Hack!
---
-
-== Organisation
-
-=== Rooms
-
-* Klemperer-Saal
-** main hack-arena
-** kids corner in the back
-* Seminar Room 0.40 (for breakout sessions)
-
-icon:home[5x]
-
-
-=== Food
-
-- will be served in Klemperer-Saal
-- coffee break in the morning will be in parallel
-- afternoon coffee break from 2.45-3.15 pm
-
-icon:cutlery[5x]
-
-=== Workshop Dinner
-
-* held on Thursday night, starting at 8pm
-* self-paid basis
-* venue will be announced
-* registration will be announced
-
-
-icon:check[5x]
-
-
-=== Working Hours
-
-* organize yourselves
-* time with your mentor(s) is precious
-* respect family duties (feel free to bring your kids)
-* Klemperer-Saal: open from 8am to 12pm
-
-icon:clock-o[5x]
-
-[%notitle,background-iframe="https://dresden-code-of-conduct.org/en/index.html"]
-=== Dresden Code of Conduct
-
-=== https://dresden-code-of-conduct.org/en/index.html[Code of Conduct] Contact Persons
-
-* Peter Steinbach (Mrs, Ms, Mx)
-* Sebastian Starke (Mr) 
-
-
-=== https://www.slub-dresden.de/en/collections/manuscripts/the-dresden-maya-codex/[Dresden Maya Codex]
-
-image::wikimedia-1024px-CodexPages6_8.jpg[stretch]
-
-[.notes]
---
-* english lead tour available on demand
-* please sign up
---
-
-
-[%notitle]
-== d3hack2019
-
-image::discussion-data_1600x.jpg[background, size=cover]
-
-[.notes]
---
-a couple of words about this hackathon
---
-
-=== History
-
-Dresden has strong history in GPU hackathons:
-https://www.olcf.ornl.gov/calendar/2016-gpu-hackathons/[2016], https://www.olcf.ornl.gov/calendar/2017-gpu-hackathons/[2017], https://www.olcf.ornl.gov/calendar/2018-gpu-hackathons/[2018]
-
-image::fig1.png[stretch]
-
-published in https://www.hzdr.de/publications/Publ-27612[Computing in Science & Engineering]
-
-
-=== A Hackathon with Deep Learning?
-
-image::experiment.jpg[stretch]
-
-We are pioneering this *experiment!*
-
-
-=== the event is what we make of it
-
-image::team-effort_1600.jpg[stretch]
-
-=== What makes the win?
-
-[%step]
-* curiosity
-* communication
-* openness
-* team play
-
-[.notes]
---
-* curiosity: the hackathon = place to learn
-* communication: honest; ask for help
-* openness: I am stuck, can you help me?
-* team play: work together, plan together, publish together
---
-
-=== Break out sessions
-
-[%step]
-* a common icon:question-circle[]
-* ask mentors to share knowledge
-* each day: 3.15pm - 4.15pm in __room 0.40__
-* understanding icon:exclamation-circle[]
-
-=== Daily Scrums 
-
-* Tue/Wed/Thu
-* 11:30 am
-* 3 min per team
-* team member reports:
-** what was achieved since yesterday?
-** what are you working on right now?
-** what is the goal until tomorrow?
-
-icon:bullhorn[5x]
-
-
-=== Mentors
-
-* experienced ML practitioners
-* volunteers!
-* hackathon to be _published_  
-(win-win for team and mentor)
-* mentors invited to help where help is needed
-
-@teams: *Watch your language!*
-
-[.notes]
---
-* curiosity: the hackathon = place to learn
-* communication: honest; ask for help
-* openness: I am stuck, can you help me?
-* team play: work together, plan together, publish together
---
-
-== Summary
-
-* Enjoy!
-* Explore!
-* Express!
-
-=== Questions?
-
-image::analysis-blackboard-bubble-355952_1600.jpg[background, size=cover]
-
+* https://carpentries.org/members/[70+ members]: EMBL/EBI, Cambridge U, Stanford U, GFZ Potsdam, HZDR, University of Göttingen
 
