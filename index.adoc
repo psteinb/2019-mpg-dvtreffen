@@ -27,6 +27,10 @@ https://twitter.com/{my_twitter}[icon:twitter[] psteinb_] https://github.com/{my
 
 === (Past) My Role
 
+=== Slides
+
+https://psteinb.github.io/2019-mpg-dvtreffen/
+
 == The carpentries
 
 * teach foundational coding and data science skills
