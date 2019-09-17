@@ -188,7 +188,20 @@ image::2018-longterm-survey-changeinconfidence.png[]
 
 == Summary
 
-=== 
+=== General
+
+* teaching not considered a value worth paying for (hard to attract funding )
+* long-term effects tricky to quantify
+* carpentries target domain scientists (cultural issues on both sides)
+
+=== MPI CBG
+
+* taught a dozen workshops since 2014
+* positive feedback (average 4.75/5 stars overall)
+* data and coding literacy increased
+* fun experience to teach with methodical background
+* carpentry inspired https://hpc-carpentry.github.io/[HPC curriculum] incubating
+
 
 == Appendix
 
