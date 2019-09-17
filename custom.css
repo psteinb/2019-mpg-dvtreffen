@@ -152,3 +152,8 @@
 .reveal .red {
     color: red;
 }
+
+.reveal .termlike {
+    color: lightgreen;
+    background-color: black;
+}
