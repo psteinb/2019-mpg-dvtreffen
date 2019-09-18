@@ -44,6 +44,8 @@ a| image::csbdbuilding.jpg[width=90%]
 * data and coding literacy increased
 * fun experience to teach with methodical background
 
+_how did we do that?_
+
 == Motivation
 
 === Digital Science
@@ -56,6 +58,11 @@ a| image::csbdbuilding.jpg[width=90%]
 * http://www.deeplearning.net/software/theano/[theano]
  
 _Software is a product of Science!_
+
+=== Real Software?
+
+image::957px-Spaghetti_Rules_Or_Business_Rules.png[height=60%]
+
 
 === Data Driven Science
 
@@ -71,9 +78,14 @@ a| image::discussion-data_1600x.jpg[width=90%]
 
 === Real data?
 
-image::alphabet-board-game-cardboard-278890.jpg[width=60%]
+image::alphabet-board-game-cardboard-278890.jpg[width=55%]
 
 Variety, Volume, Velocity, Validity, _Value_
+
+
+=== Resignate?
+
+image::boy-child-cry-256658_1600.jpg[width=85%]
 
 
 == The carpentries
