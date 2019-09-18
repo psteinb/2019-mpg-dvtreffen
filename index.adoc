@@ -1,6 +1,5 @@
 = Five years in the carpentries
 :imagesdir: images
-:icons: font
 :date: September 18, 2019
 :my_name: Peter Steinbach
 :my_email: p.steinbach@hzdr.de
@@ -16,6 +15,7 @@
 :revealjs_plugin_pdf: enabled #you run your presentation in a browser with ?print-pdf at the end of the URL, you can then use the default print function to print the slide deck into a PDF document.
 :customcss: custom.css
 :source-highlighter: highlightjs
+:icons: font
 :stem:
 
 mailto:{my_email}[{my_name}] +
@@ -131,19 +131,34 @@ image::art-art-materials-close-up-632470_1024x.jpg[width=80%]
 * sticky notes, etherpad
 --
 
-=== consider learners background
+=== consider learner's background
 
 image::adult-blur-books-261909_1024x.jpg[width=80%]
 
+=== leaner's background versus expert bias
+
+____
+How would you find a file on your computer's home directory that starts with a capital 'E' and is less than one Megabyte in size? 
+
+. I have no idea how to do that.
+. I would be able to do this with help by a colleaque or google.
+. I use a cheatsheet for such things.
+. No problem, I can do this blindly.
+-- MPI CBG, Shell-Novice Pre-Workshop Survey
+____
+
 === affirmative self-assessment exercises during class
 
-> In our current directory, we want to find the 3 files which have the least number of lines. Which command listed below would work?
-> 
-> 1. ``wc -l * > sort -n > head -n 3``
-> 1. ``wc -l * | sort -n | head -n 1-3``
-> 1. ``wc -l * | head -n 3 | sort -n``
-> 1. ``wc -l * | sort -n | head -n 3``
-> -- Software Carpentry, Shell-Novice Lesson: https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html[Lesson 4] Pipes and Filters
+____
+In our current directory, we want to find the 3 files which have the least number of lines. Which command listed below would work?
+
+. ``wc -l * > sort -n > head -n 3``
+. ``wc -l * | sort -n | head -n 1-3``
+. ``wc -l * | head -n 3 | sort -n``
+. ``wc -l * | sort -n | head -n 3``
+-- Software Carpentry, Shell-Novice Lesson: https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html[Lesson 4] Pipes and Filters
+____
+
 
 === Who can teach?
 
@@ -205,15 +220,14 @@ image::2018-longterm-survey-changeinconfidence.png[]
 
 === Experiences
 
-* teaching not considered a value worth paying for + 
-(hard to attract funding )
+* teaching not considered a value worth paying for 
 * thriving community
 * carpentries target domain scientists (cultural issues on both sides)
 * much needed when talking to PhDs and PostDocs
 
 === MPI CBG
 
-* taught a dozen workshops since 2014
+* taught 11 workshops since 2014
 * positive feedback (average 4.75/5 stars overall)
 * data and coding literacy increased
 * fun experience to teach with methodical background
