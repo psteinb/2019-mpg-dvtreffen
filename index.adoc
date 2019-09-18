@@ -27,19 +27,22 @@ https://twitter.com/{my_twitter}[icon:twitter[] psteinb_] https://github.com/{my
 
 === HPC support & more
 
-image::MPI-CBG_building_outside_4pl_800px.jpg[float="left"]  
-image::csbdbuilding.jpg[float="right"]
+[cols="^,^",grid=none, frame=none]
+|===
+a| image::MPI-CBG_building_outside_4pl_800px.jpg[width=90%]  
+a| image::csbdbuilding.jpg[width=90%]
 
-* MPI CBG (wet-lab based cell biology + genomics)
-* CSBD (theory groups and algorithm development)
+| MPI CBG (wet-lab based cell biology + genomics)
+| CSBD (theory groups and algorithm development)
+|===
 
+=== Practical Programming Skills for Scientists
 
-=== Slides
-
-image::open-source.png[]
-
-https://psteinb.github.io/2019-mpg-dvtreffen/[psteinb.github.io/2019-mpg-dvtreffen/]
-
+* taught 11 workshops since 2014
+* 140 participants in total 
+* positive feedback (average 4.75/5 stars overall)
+* data and coding literacy increased
+* fun experience to teach with methodical background
 
 == Motivation
 
@@ -220,19 +223,24 @@ image::2018-longterm-survey-changeinconfidence.png[]
 
 === Experiences
 
-* teaching not considered a value worth paying for 
-* thriving community
-* carpentries target domain scientists (cultural issues on both sides)
-* much needed when talking to PhDs and PostDocs
+[%step]
+* teaching is fun! +
+(boosted by thriving community and open material)
+* carpentries target domain scientists +
+(boosting beginners in short time)
+* cultural asymmetry:
+** PIs: teaching often _not considered_ a value _worth paying for_
+** much needed/appreciated by PhDs and PostDocs
 
-=== MPI CBG
+=== Outlook
 
-* taught 11 workshops since 2014
-* positive feedback (average 4.75/5 stars overall)
-* data and coding literacy increased
-* fun experience to teach with methodical background
+* (domain) _scientists need training_ in compute and data literacy
+* _Carpentries_ can help with scalable, open and community-based training
 * carpentry inspired https://hpc-carpentry.github.io/[HPC curriculum] incubating
 
+_Thank you!_
+
+https://psteinb.github.io/2019-mpg-dvtreffen/[psteinb.github.io/2019-mpg-dvtreffen/]
 
 == Appendix
 
@@ -255,3 +263,9 @@ image::2018-longterm-survey-changeinconfidence.png[]
 * https://carpentries.github.io/assessment/learner-assessment/archives/2018/code/2018_January_long_term_report.html[long-term assessment]
 * https://www.youtube.com/watch?v=FtKO619O5g0&t=161s[Pycon 2014 Talk: Lessons Learnt] (Youtube Recording)
 
+
+=== Slides
+
+image::open-source.png[]
+
+https://psteinb.github.io/2019-mpg-dvtreffen/[psteinb.github.io/2019-mpg-dvtreffen/]
