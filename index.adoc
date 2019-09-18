@@ -238,9 +238,9 @@ image::2018-longterm-survey-changeinconfidence.png[height=800]
 === Experiences
 
 [%step]
-* teaching is fun! +
+* _teaching is fun!_ +
 (boosted by thriving community and open material)
-* carpentries target domain scientists +
+* _carpentries target domain scientists_ +
 (boosting beginners in short time)
 * cultural asymmetry:
 ** PIs: teaching often _not considered_ a value _worth paying for_
