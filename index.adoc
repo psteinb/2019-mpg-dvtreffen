@@ -173,7 +173,7 @@ In our current directory, we want to find the 3 files which have the least numbe
 . ``wc -l * | head -n 3 | sort -n``
 . ``wc -l * | sort -n | head -n 3``
 
-From Software Carpentry, Shell-Novice Lesson: https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html[Lesson 4] Pipes and Filters
+From Shell-Novice https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html[Lesson 4 Pipes and Filters]
 ____
 
 
